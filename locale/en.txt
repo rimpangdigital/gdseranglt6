@@ -48,7 +48,7 @@ Image_F518BFB8_E414_67F5_41D1_54832CFCE4B6.url = skin/Image_F518BFB8_E414_67F5_4
 Image_F518BFB8_E414_67F5_41D1_54832CFCE4B6_mobile.url = skin/Image_F518BFB8_E414_67F5_41D1_54832CFCE4B6_mobile_en.png
 
 ### Multiline Text
-HTMLText_F7B10B39_E42C_A8F5_41DC_25087023CC19_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.564102564102564vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.56vh;font-family:&quot;Arial Black&quot;, Gadget, sans-serif;">PANORAMA LIST:</SPAN></SPAN></DIV></div>
+HTMLText_F7B10B39_E42C_A8F5_41DC_25087023CC19_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5641025641025643vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.56vh;font-family:&quot;Arial Black&quot;, Gadget, sans-serif;">PANORAMA LIST:</SPAN></SPAN></DIV></div>
 HTMLText_F7B10B39_E42C_A8F5_41DC_25087023CC19.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.91vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.91vh;font-family:&quot;Arial Black&quot;, Gadget, sans-serif;">PANORAMA LIST:</SPAN></SPAN></DIV></div>
 
 ## Tour
