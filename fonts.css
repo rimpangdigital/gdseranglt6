@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Plus Jakarta Sans Medium";
+   src: url("fonts/Plus Jakarta Sans SemiBold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Arial Black";
+   src: url("fonts/Arial Black.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
